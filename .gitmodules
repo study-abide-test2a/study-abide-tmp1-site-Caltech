@@ -4,5 +4,5 @@
 	datalad-id = 28564f81-b4f6-45f8-97f5-adce6a297c74
 [submodule "derivatives/nidm"]
 	path = derivatives/nidm
-	url = ./derivatives/nidm
+	url = https://github.com/study-abide-test2a/study-abide-tmp1-site-Caltech-derivatives-nidm.git
 	datalad-id = 6abff16f-4805-4899-bcb9-d26a08828467
